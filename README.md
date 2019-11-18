@@ -21,3 +21,5 @@ Summary:
 
 ![Metastatic](https://user-images.githubusercontent.com/50187921/69075765-a7805900-09f7-11ea-9660-91e8b873cab7.png)
 
+3. Graph 'Survival During Treatment' shows that over 80% of the mice taking Capomullin has survived during the course of trial. For the other drugs survival rate dropped with almost same rate till day 30 and after that survival rate for Infubinol has significantly dropped.
+
