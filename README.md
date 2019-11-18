@@ -27,4 +27,6 @@ Summary:
 
 4. According to these trends and tumor volume change percentage which we can see in the last graph, we could suggest Capomulin had the most favorable result between the compared drugs.
 
+![tumor_change_over_45day_treatment](https://user-images.githubusercontent.com/50187921/69076074-4b6a0480-09f8-11ea-9dbf-82ec6a2e2dc6.png)
+
 
