@@ -11,7 +11,9 @@ Created a bar graph that compares the total % tumor volume change for each drug 
 
 Summary:
 
-Graph 'Tumor Response to Treatment' shows that the drug Capomulin had a better result, the tumors volume for the mice taking Capomulin shrunk in course of trial while for the mice taking the other drugs, tumors volume grew almost with the same rate.
+1. Graph 'Tumor Response to Treatment' shows that the drug Capomulin had a better result, the tumors volume for the mice taking Capomulin shrunk in course of trial while for the mice taking the other drugs, tumors volume grew almost with the same rate.
 
 ![Tumorvolume](https://user-images.githubusercontent.com/50187921/69074872-d695cb00-09f5-11ea-9360-eac2bfd0fba9.png)
+
+2. Graph 'Metastatic Spread During Treatment' shows that all tumors had metastatic spread regardless of the drug, although the mice taking Capomulin had slowest metastatic spread and Placebo had the fastest spread.
 
