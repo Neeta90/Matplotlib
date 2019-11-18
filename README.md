@@ -25,4 +25,6 @@ Summary:
 
 ![Survival](https://user-images.githubusercontent.com/50187921/69075911-f75f2000-09f7-11ea-8df9-9e20eb48c379.png)
 
+4. According to these trends and tumor volume change percentage which we can see in the last graph, we could suggest Capomulin had the most favorable result between the compared drugs.
+
 
