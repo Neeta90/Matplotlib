@@ -19,3 +19,5 @@ Summary:
 
 2. Graph 'Metastatic Spread During Treatment' shows that all tumors had metastatic spread regardless of the drug, although the mice taking Capomulin had slowest metastatic spread and Placebo had the fastest spread.
 
+![Metastatic](https://user-images.githubusercontent.com/50187921/69075765-a7805900-09f7-11ea-9660-91e8b873cab7.png)
+
